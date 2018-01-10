@@ -4,3 +4,5 @@
 *.egg-info
 build/
 dist/
+# ignore asdf local .tool-versions file
+.tool-versions
